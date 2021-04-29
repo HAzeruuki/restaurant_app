@@ -1,0 +1,26 @@
+{
+  "food": [
+    "Fajitas",
+    "Burritos",
+    "Ravioli",
+    "Lasagna",
+    "Teriyaki chicken", "BBQ chicken",
+    "Potato Soup"
+  ],
+  "sidedish": [
+    "Salad",
+    "Potato",
+    "Broccoli",
+    "Cabbage",
+    "Baked Beans"
+  ],
+  "drink": [
+    "Coca-Cola",
+    "Pepsi",
+    "Fanta",
+    "Milk",
+    "Water",
+    "Beer",
+    "Wine"
+  ]
+}
